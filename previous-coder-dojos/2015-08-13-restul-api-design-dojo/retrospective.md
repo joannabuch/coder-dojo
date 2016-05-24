@@ -1,0 +1,7 @@
+- Use the Fantasy Football example first
+- Split into 2 groups starting with the first session - present the fact that they can self organize and split into pairs if they want
+- Change groups after each session
+- 30 min for the first simple session, 40 min for the others
+- Pizza should come at 6
+- Group of 14 people
+- Book the room with 30 min before starting
