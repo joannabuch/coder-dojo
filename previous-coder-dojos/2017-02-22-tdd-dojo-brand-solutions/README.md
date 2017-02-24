@@ -27,26 +27,26 @@ sharing and encourage people to use TDD in their daily work.
  * How to use Clojure in Cursive
  * Clojure syntax is more obscure than I thought
  
- #### What surprised me
+#### What surprised me
  
-  * Working with strangers in strage languages is fun
-  * How much time one could spend on setting up environment
-  * TDD is cool for pure functions
-  * Lots of trying out new languages
-  * Ping Pong (pair programming) is cool
-  * Ping Pong style
-  * Having good test coverage simplifies optmiziations
-  * Ping Pong PP style
-  * Ping Pong Method
-  * How much fun it is
+ * Working with strangers in strage languages is fun
+ * How much time one could spend on setting up environment
+ * TDD is cool for pure functions
+ * Lots of trying out new languages
+ * Ping Pong (pair programming) is cool
+ * Ping Pong style
+ * Having good test coverage simplifies optmiziations
+ * Ping Pong PP style
+ * Ping Pong Method
+ * How much fun it is
   
- #### Different next time
-   * Use tools like atomist for project bootstrap
-   * Pre-setups envs (projects) in a git repo
-   * Don't overthink requirements
-   * Prepare project skeleton before hand
-   * Prepare setups
-   * Haven env prepared, blank projects
-   * Bring external keyboards
-   * Pick a few languages first and do test setup
+#### Different next time
+ * Use tools like atomist for project bootstrap
+ * Pre-setups envs (projects) in a git repo
+ * Don't overthink requirements
+ * Prepare project skeleton before hand
+ * Prepare setups
+ * Haven env prepared, blank projects
+ * Bring external keyboards
+ * Pick a few languages first and do test setup
    
